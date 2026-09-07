@@ -1,0 +1,36 @@
+Write a blogpost on "AI Agent open protocol"
+
+Should cover the below protocols
+
+Agent2Agent (A2A) protocol
+
+Agent communication protocol (ACP)
+
+Agent network protocol (ANP)
+
+Agent-user interaction (AG-UI) protocol
+
+Agora
+
+LMOS protocol
+
+Model context protocol (MCP)
+
+Universal Commerce Protocol (UCP)
+
+Agent Payments Protocol (AP2)
+
+ 
+
+Each topic should contain a simple image & details of the protocol. It should cover both novice, developers.
+
+ 
+
+Refer the below sites. But don't specify as reference anywhere
+
+https://www.ibm.com/think/topics/ai-agent-protocols
+
+https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/
+ 
+
+Create the blogpost split into multiple episodes in editable word document. 
